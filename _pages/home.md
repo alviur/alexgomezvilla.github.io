@@ -7,9 +7,9 @@ title: <br><br><br><br><br><br>Alex Gomez-Villa
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/trinity.jpg
-  caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/portada.png
+
 excerpt: "Predoctoral researcher in Vision Science and Computer Vision at the University Pompeu Fabra<br><br>"
 feature_row:
   - image_path: /assets/images/uncertainty.jpg
